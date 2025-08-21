@@ -160,9 +160,9 @@
 | **6**     | Support System    | 4 weeks      | 25,000 EGP     | Help center, Knowledge base, Live chat      |
 | **7**     | UX Optimization   | 3 weeks      | 20,000 EGP     | Onboarding, Tutorials, Analytics            |
 
-**Total Development Timeline**: 30 weeks (7.5 months)
+**Total Development Timeline**: 30 weeks (4-7)
 
-> **Note**: Parallel development opportunities can optimize timeline to 4-6 months
+> **Note**: Several phases will be executed in parallel, allowing the overall timeline to be reduced to approximately 4-7 months.
 
 ## 💰 Investment Breakdown
 
